@@ -5,9 +5,15 @@
 ## 学习目标
 
 - [x] 创建仓库
-- [ ] 学习 commit
-- [ ] 学习 push/pull
+- [x] 学习 commit
+- [x] 学习 push/pull
 - [ ] 学习分支
+
+## 今日学习记录
+
+- 学会了使用 `git add` 添加文件
+- 学会了使用 `git commit` 提交改动
+- 学会了使用 `git push` 推送到 GitHub
 
 ## 作者
 
